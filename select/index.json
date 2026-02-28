@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Miss You",
+  "base_artist": "(sic)boy",
+  "createdAt": "2026-02-28T14:17:53.913954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Still Miss You",
+      "artist": "Keith Anderson",
+      "has_synced": true,
+      "path": "select/01_I_Still_Miss_You_Keith_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Miss You Love You - Non LP Version",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Miss_You_Love_You_-_Non_LP_Version_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Miss You Love You",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/03_Miss_You_Love_You_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/04_I_Miss_You_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Miss You (Thin White Duke Remix)",
+      "artist": "Mirwais",
+      "has_synced": false,
+      "path": "select/05_Miss_You_(Thin_White_Duke_Remix)_Mirwais.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hard to Miss You",
+      "artist": "Mojave 3",
+      "has_synced": true,
+      "path": "select/06_Hard_to_Miss_You_Mojave_3.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Miss You",
+      "artist": "Mirwais",
+      "has_synced": false,
+      "path": "select/07_Miss_You_Mirwais.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Miss You (Micronauts Remix)",
+      "artist": "Mirwais",
+      "has_synced": false,
+      "path": "select/08_Miss_You_(Micronauts_Remix)_Mirwais.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Miss You",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_Miss_You_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I.M.Y (Miss You)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/10_I.M.Y_(Miss_You)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Miss You Bow Wow",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/11_Miss_You_Bow_Wow_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Miss You Bow Wow",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/12_Miss_You_Bow_Wow_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Miss You",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/13_Miss_You_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Miss You",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/14_Miss_You_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Miss Me",
+      "artist": "Paul Rosewood",
+      "has_synced": true,
+      "path": "select/15_Miss_Me_Paul_Rosewood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Want to Miss a Thing",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/16_I_Don't_Want_to_Miss_a_Thing_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Don't Want To Miss A Thing (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/17_I_Don't_Want_To_Miss_A_Thing_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Miss My Friend",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/18_I_Miss_My_Friend_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Miss My Friend (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/19_I_Miss_My_Friend_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Still Miss Someone",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/20_I_Still_Miss_Someone_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Still Miss Someone",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/21_I_Still_Miss_Someone_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I'm Gonna Miss Her",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/22_I'm_Gonna_Miss_Her_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Little Miss Honky Tonk",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/23_Little_Miss_Honky_Tonk_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Little Miss Honky Tonk",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/24_Little_Miss_Honky_Tonk_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Miss California",
+      "artist": "Hootie & The Blowfish",
+      "has_synced": true,
+      "path": "select/25_Miss_California_Hootie_&_The_Blowfish.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Miss Me More",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/26_Miss_Me_More_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "You Never Miss a Real Good Thing (Till He Says Goodbye) [2001 Remaster]",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/27_You_Never_Miss_a_Real_Good_Thing_(Till_He_Says_Goodbye)_[2001_Remaster]_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "You Never Miss A Real Good Thing (Till He Says Goodbye) (Remastered)",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/28_You_Never_Miss_A_Real_Good_Thing_(Till_He_Says_Goodbye)_(Remastered)_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Miss You feat. Vernon of SEVENTEEN",
+      "artist": "(sic)boy, VERNON",
+      "has_synced": false,
+      "path": "select/pl_01_Miss_You_feat._Vernon_of_SEVENTEEN_(sic)boy,_VERNON.txt"
+    }
+  ]
+}
